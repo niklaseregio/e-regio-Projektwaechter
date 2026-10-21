@@ -1,15 +1,15 @@
-<?xml version="1.5.2" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="e-regio Projektwaechter" version="0.1.6">
+  <pyqgis_plugin name="e-regio Projektwaechter" version="0.1.5.2">
     <description>Locks shared QGIS .qgz projects by disabling saving for additional users.</description>
     <about>Lock file based project guard for shared .qgz projects.</about>
-    <version>0.1.6</version>
+    <version>0.1.5.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <author_name>Niklas Kaim</author_name>
     <file_name>qgis_projektwaechter-0.1.5.2.zip</file_name>
-    <download_url>https://niklaseregio.github.io/e-regio-Projekwaechter/downloads/qgis_projektwaechter-0.1.6.zip</download_url>
-    <homepage>https://github.com/niklaseregio/e-regio-Projekwaechter</homepage>
-    <repository>https://github.com/niklaseregio/e-regio-Projekwaechter</repository>
-    <tracker>https://github.com/niklaseregio/e-regio-Projekwaechter/issues</tracker>
+    <download_url>https://niklaseregio.github.io/e-regio-Projektwaechter/downloads/qgis_projektwaechter-0.1.5.2.zip</download_url>
+    <homepage>https://github.com/niklaseregio/e-regio-Projektwaechter</homepage>
+    <repository>https://github.com/niklaseregio/e-regio-Projektwaechter</repository>
+    <tracker>https://github.com/niklaseregio/e-regio-Projektwaechter/issues</tracker>
   </pyqgis_plugin>
 </plugins>
