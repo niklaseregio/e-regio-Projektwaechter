@@ -6,8 +6,8 @@
     <version>0.1.5.2</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <author_name>Niklas Kaim</author_name>
-    <file_name>qgis_projektwaechter-0.1.5.2.zip</file_name>
-    <download_url>https://niklaseregio.github.io/e-regio-Projektwaechter/downloads/qgis_projektwaechter-0.1.5.2.zip</download_url>
+    <file_name>qgis_projektwaechter.zip</file_name>
+    <download_url>https://niklaseregio.github.io/e-regio-Projektwaechter/downloads/qgis_projektwaechter.zip</download_url>
     <homepage>https://github.com/niklaseregio/e-regio-Projektwaechter</homepage>
     <repository>https://github.com/niklaseregio/e-regio-Projektwaechter</repository>
     <tracker>https://github.com/niklaseregio/e-regio-Projektwaechter/issues</tracker>
